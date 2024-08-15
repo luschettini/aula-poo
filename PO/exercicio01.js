@@ -25,7 +25,7 @@ console.log(alunoObjeto);
 //CARRO
 const carroObjeto = new Object();
 carroObjeto.cor = "Preto";
-carroObjeto.Modelo = "HR-V";
+carroObjeto.modelo = "HR-V";
 carroObjeto.ano = 2023
 
 console.log(carroObjeto);
